@@ -1,0 +1,28 @@
+# Build folders
+Debug/
+Release/
+
+# Eclipse / CubeIDE project files (optional)
+.project
+.cproject
+.settings/
+
+# STM32CubeMX generated files
+*.ioc
+*.elf
+*.map
+*.axf
+*.d
+*.lst
+*.bin
+*.hex
+
+# Backup / temporary files
+*~
+*.bak
+*.swp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
