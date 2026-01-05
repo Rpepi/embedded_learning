@@ -1,0 +1,19 @@
+# --- Fichiers de compilation (Binaires) ---
+Debug/
+Release/
+*.elf
+*.bin
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# --- Fichiers de configuration utilisateur (locaux) ---
+.settings/
+.launch
+*.launch
+
+# --- Fichiers temporaires de l'IDE ---
+.tmp
+.log
